@@ -428,9 +428,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7993966F1D48B7F600086753 /* Build configuration list for PBXNativeTarget "FilesProvider iOS" */;
 			buildPhases = (
+				799396641D48B7F600086753 /* Headers */,
 				799396621D48B7F600086753 /* Sources */,
 				799396631D48B7F600086753 /* Frameworks */,
-				799396641D48B7F600086753 /* Headers */,
 				799396651D48B7F600086753 /* Resources */,
 			);
 			buildRules = (
